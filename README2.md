@@ -19,12 +19,30 @@ A project-based learning to conduct differential gene expression analysis of tra
 9. Export and save the plots as image
 
 ## The Result
+**Boxplot**
+
+
 ![Add-text](Result/PBL/R_boxplot.png)
+
+
+**Density plot**
+
+
 ![Add-text](Result/PBL/R_density.png)
+
+
+**Volcano plot**
+
+
 ![Add-text](Result/PBL/R_volcano.png)
+
+
+**Heatmap**
+
+
 ![Add-text](Result/PBL/R_heatmap.png)
 
-10. Generate top 50 symbol for gene ontology analysis
+10. Generate top 50 symbols for gene ontology analysis
 11. Save the project
 
 ## Steps in gene ontology (GO) analysis
@@ -34,5 +52,5 @@ A project-based learning to conduct differential gene expression analysis of tra
 4. Run the analisis
 5. Explore the result visualization and choose one that fits the report
 
-### Result interpretation
-[Check my report here](Report/311_Agnes Faustina_Week 4.pdf)
+## Result interpretation
+[Check my report here](Report/311_AgnesFaustina_Week4.pdf)
